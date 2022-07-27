@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil ainda em construção 😁
+## Bem-vindo(a) ao meu perfil <ainda em construção> 😁
 
  <div>
    <a href="https://github.com/jeejca">
@@ -17,11 +17,10 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Segue aí! 👇
  
 <div> 
   <a href="https://instagram.com/jeejca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jfontes138@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jfontes138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/jeejca/jeejca/blob/output/github-contribution-grid-snake.svg)
