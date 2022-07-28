@@ -3,7 +3,7 @@
 <h4>Designer Iniciando a Transição de Carreira</h4>
 <ul>
 <li> 🛠 Perfil ainda em Construção</li>
-<li> 🙋‍♀️ Sou Designer Gráfica desde 2014, no começo de 2022 decidi me aventurar na programação. Foi então que descobri o Front-End.</li>
+<li> 🙋‍♀️ Sou Designer Gráfica, no começo de 2022 decidi me aventurar na programação. Foi então que descobri o Front-End.</li>
 </ul>
  <div>
    <a href="https://github.com/jeejca">
