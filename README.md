@@ -3,7 +3,7 @@
 <h4>Designer iniciando a transição de carreira</h4>
 
 - 🔭 Hoje trabalho com design gráfico
-- 🌱 Estudando html e css 
+- 🌱 Estudando programação front-end 
 - 😄 Pronomes: ela/dela
 
  <div>
