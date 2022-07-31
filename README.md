@@ -2,8 +2,8 @@
 
 <h4>Designer iniciando a transição de carreira</h4>
 
-- 🔭 Hoje trabalho com design gráfico
-- 🌱 Estudando programação front-end 
+- 🔭 Atualmente trabalho com design gráfico
+- 🌱 Estudando programação front-end para fazer a transição de carreira
 - 😄 Pronomes: ela/dela
 
  <div>
@@ -24,8 +24,10 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/jeejca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jfontes138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:jfontes138@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jfontes138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/jeejca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/thejeejca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/jeejca/jeejca/blob/output/github-contribution-grid-snake.svg)
 
